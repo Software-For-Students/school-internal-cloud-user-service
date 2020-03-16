@@ -1,6 +1,2 @@
-# Todo after cloning
-- [ ] add description
-- [ ] redo readme (using the description)
-- [ ] rename root project name in settings.gradle
-- [ ] rename package (template) to use service name
-- [ ] delete gitkeep file in package path
+# school-internal-cloud-user-service
+Microservice of the School Internal Cloud managing user accounts, credentials, and permissions
